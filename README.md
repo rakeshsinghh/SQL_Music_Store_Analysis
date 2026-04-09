@@ -1,4 +1,4 @@
-## SQL_Music_Store_Analysis
+## **SQL_Music_Store_Analysis**
 This project is a comprehensive SQL-based data analysis of a music store's operational data.
 
 The core motive is to derive actionable business intelligence (BI) to drive market strategy, optimize sales performance, and enhance customer engagement. The analysis focuses on three key areas:
@@ -9,5 +9,5 @@ The core motive is to derive actionable business intelligence (BI) to drive mark
 
 **Content & Artist Analysis:** Analyzing customer preferences, such as identifying all Rock Music listeners, finding the top artists who have written the most rock music, and evaluating customer spending per artist.
 
-### Database Used:
+### ***Database Used:***
 MSSQL Server
